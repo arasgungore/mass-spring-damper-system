@@ -1,4 +1,4 @@
-%% Spring Mass Damper System
+%% Mass-Spring-Damper System Simulation
 clc, clear
 
 m = 1;
