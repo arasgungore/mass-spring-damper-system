@@ -16,16 +16,16 @@ matlab -nodisplay -nosplash -nodesktop -r "run('param.m');exit;"
 
 ### Single Spring Mass Damper System
 
-<img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/spring-mass-damper-system/main/Screenshots/overall_1.jpg" width="800">
+<img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/spring-mass-damper-system/main/Screenshots/overall_1.jpg" width="400">
 
-<img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/spring-mass-damper-system/main/Screenshots/schematic_1.jpg" width="800">
+<img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/spring-mass-damper-system/main/Screenshots/schematic_1.jpg" width="600">
 
 
 ### Double Spring Mass Damper System
 
-<img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/spring-mass-damper-system/main/Screenshots/overall_2.jpg" width="800">
+<img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/spring-mass-damper-system/main/Screenshots/overall_2.jpg" width="400">
 
-<img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/spring-mass-damper-system/main/Screenshots/schematic_2.jpg" width="800">
+<img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/spring-mass-damper-system/main/Screenshots/schematic_2.jpg" width="600">
 
 
 
