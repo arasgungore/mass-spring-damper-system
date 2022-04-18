@@ -4,7 +4,7 @@ A Simulink project that simulates both single and double mass-spring-damper syst
 
 
 
-## Run on terminal
+## Run on Terminal
 
 ```sh
 matlab -nodisplay -nosplash -nodesktop -r "run('param.m');exit;"
